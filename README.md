@@ -47,6 +47,7 @@
 
 #### es6
 1. [es6 -- promise和setTimeout执行顺序的问题.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/es6/promise%E5%92%8CsetTimeout%E6%89%A7%E8%A1%8C%E9%A1%BA%E5%BA%8F%E7%9A%84%E9%97%AE%E9%A2%98.md)
+2. [es6--function](https://github.com/LeonWuV/FE-blog-repository/blob/master/es6/es6--function.md)
 
 #### 前端优化
 1. [关于重绘（repaint）和回流（reflow）的理解.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/%E5%89%8D%E7%AB%AF%E4%BC%98%E5%8C%96/%E5%85%B3%E4%BA%8E%E9%87%8D%E7%BB%98%EF%BC%88repaint%EF%BC%89%E5%92%8C%E5%9B%9E%E6%B5%81%EF%BC%88reflow%EF%BC%89%E7%9A%84%E7%90%86%E8%A7%A3.md)
