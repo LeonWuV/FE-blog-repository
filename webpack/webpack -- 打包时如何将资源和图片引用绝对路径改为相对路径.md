@@ -1,3 +1,4 @@
+欢迎访问我的个人博客：[http://www.xiaolongwu.cn](http://www.xiaolongwu.cn)
 ## 前言
 最近在用vue-cli+webpack做项目，项目架构搭好了之后，想build之后看看效果，但是build出来的index.html文件中的默认资源引用都是绝对路径，也就是相对于根目录的绝对路径；但是我项目如果部署到线上也不一定是在根目录里呀，所以这种默认相对于根目录的绝对路径肯定是不实用的；
 ## 解决方案
@@ -25,6 +26,9 @@ background: url("./static/img/img.png")
 
 
 我的个人博客地址：[http://www.xiaolongwu.cn](http://www.xiaolongwu.cn)
+
+github资源地址：[https://github.com/打包时如何将资源和图片引用绝对路径改为相对路径.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/webpack/webpack%20--%20%E6%89%93%E5%8C%85%E6%97%B6%E5%A6%82%E4%BD%95%E5%B0%86%E8%B5%84%E6%BA%90%E5%92%8C%E5%9B%BE%E7%89%87%E5%BC%95%E7%94%A8%E7%BB%9D%E5%AF%B9%E8%B7%AF%E5%BE%84%E6%94%B9%E4%B8%BA%E7%9B%B8%E5%AF%B9%E8%B7%AF%E5%BE%84.md)
+
 
 我的CSDN博客地址：[https://blog.csdn.net/wxl1555](https://blog.csdn.net/wxl1555)
 

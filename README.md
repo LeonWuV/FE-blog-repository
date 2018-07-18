@@ -49,6 +49,9 @@
 1. [es6 -- promise和setTimeout执行顺序的问题.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/es6/promise%E5%92%8CsetTimeout%E6%89%A7%E8%A1%8C%E9%A1%BA%E5%BA%8F%E7%9A%84%E9%97%AE%E9%A2%98.md)
 2. [es6--function](https://github.com/LeonWuV/FE-blog-repository/blob/master/es6/es6--function.md)
 
+### webpack
+1. github资源地址：[https://github.com/打包时如何将资源和图片引用绝对路径改为相对路径.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/webpack/webpack%20--%20%E6%89%93%E5%8C%85%E6%97%B6%E5%A6%82%E4%BD%95%E5%B0%86%E8%B5%84%E6%BA%90%E5%92%8C%E5%9B%BE%E7%89%87%E5%BC%95%E7%94%A8%E7%BB%9D%E5%AF%B9%E8%B7%AF%E5%BE%84%E6%94%B9%E4%B8%BA%E7%9B%B8%E5%AF%B9%E8%B7%AF%E5%BE%84.md)
+
 #### 前端优化
 1. [关于重绘（repaint）和回流（reflow）的理解.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/%E5%89%8D%E7%AB%AF%E4%BC%98%E5%8C%96/%E5%85%B3%E4%BA%8E%E9%87%8D%E7%BB%98%EF%BC%88repaint%EF%BC%89%E5%92%8C%E5%9B%9E%E6%B5%81%EF%BC%88reflow%EF%BC%89%E7%9A%84%E7%90%86%E8%A7%A3.md)
 
