@@ -39,6 +39,8 @@ npm ERR!     C:\Users\q\AppData\Roaming\npm-cache\_logs\2018-07-06T09_19_18_374Z
 
 我的个人博客地址：[http://www.xiaolongwu.cn](http://www.xiaolongwu.cn)
 
+github资源地址：[https://github.com/webpack-dev-server启动时报错.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/webpack/webpack-dev-server%E5%90%AF%E5%8A%A8%E6%97%B6%E6%8A%A5%E9%94%99.md)
+
 我的CSDN博客地址：[https://blog.csdn.net/wxl1555](https://blog.csdn.net/wxl1555)
 
 如果您对我的博客内容有疑惑或质疑的地方，请在下方评论区留言，或邮件给我，共同学习进步。
