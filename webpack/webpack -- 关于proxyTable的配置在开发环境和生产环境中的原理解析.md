@@ -99,6 +99,8 @@ axios.get('/scada/json/aa.tpl').then((res) => {
 
 我的个人博客地址：[http://www.xiaolongwu.cn](http://www.xiaolongwu.cn)
 
+github资源地址：[https://github.com/关于proxyTable的配置在开发环境和生产环境中的原理解析.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/webpack/webpack%20--%20%E5%85%B3%E4%BA%8EproxyTable%E7%9A%84%E9%85%8D%E7%BD%AE%E5%9C%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E5%92%8C%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%E4%B8%AD%E7%9A%84%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90.md)
+
 我的CSDN博客地址：[https://blog.csdn.net/wxl1555](https://blog.csdn.net/wxl1555)
 
 如果您对我的博客内容有疑惑或质疑的地方，请在下方评论区留言，或邮件给我，共同学习进步。
