@@ -42,6 +42,8 @@ new Router({
 
 我的个人博客地址：[http://www.xiaolongwu.cn](http://www.xiaolongwu.cn)
 
+github资源地址：[https://github.com/vue -- 如何去掉url默认的锚点#.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/vue/vue%20--%20%E5%A6%82%E4%BD%95%E5%8E%BB%E6%8E%89url%E9%BB%98%E8%AE%A4%E7%9A%84%E9%94%9A%E7%82%B9%23.md)
+
 我的CSDN博客地址：[https://blog.csdn.net/wxl1555](https://blog.csdn.net/wxl1555)
 
 如果您对我的博客内容有疑惑或质疑的地方，请在下方评论区留言，或邮件给我，共同学习进步。
