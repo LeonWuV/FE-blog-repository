@@ -41,6 +41,8 @@
 5. [vue数据绑定数组，改变元素时不更新view问题.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/vue/vue%E6%95%B0%E6%8D%AE%E7%BB%91%E5%AE%9A%E6%95%B0%E7%BB%84%EF%BC%8C%E6%94%B9%E5%8F%98%E5%85%83%E7%B4%A0%E6%97%B6%E4%B8%8D%E6%9B%B4%E6%96%B0view%E9%97%AE%E9%A2%98.md)
 6. [我们为什么要用vue，他解决了什么问题，如何使用它？（转载）.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/vue/%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%94%A8vue%EF%BC%8C%E4%BB%96%E8%A7%A3%E5%86%B3%E4%BA%86%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98%EF%BC%8C%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E5%AE%83%EF%BC%9F%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89.md)
 7. [vue -- 如何去掉url默认的锚点#](https://github.com/LeonWuV/FE-blog-repository/blob/master/vue/vue%20--%20%E5%A6%82%E4%BD%95%E5%8E%BB%E6%8E%89url%E9%BB%98%E8%AE%A4%E7%9A%84%E9%94%9A%E7%82%B9%23.md)
+8. [vue -- vue-router的history模式打包后页面空白的解决方案](https://github.com/LeonWuV/FE-blog-repository/blob/master/vue/vue%20--%20vue-router%E7%9A%84history%E6%A8%A1%E5%BC%8F%E6%89%93%E5%8C%85%E5%90%8E%E9%A1%B5%E9%9D%A2%E7%A9%BA%E7%99%BD%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
+
 #### jQuery
 1. [ie11 Object doesn't support property or method 'attachEvent'.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/jQuery/ie11%20Object%20doesn't%20support%20property%20or%20method%20'attachEvent'.md)
 2. [jQuery如何增加、修改、删除一个jQuery对象的class类.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/jQuery/jQuery%E5%A6%82%E4%BD%95%E5%A2%9E%E5%8A%A0%E3%80%81%E4%BF%AE%E6%94%B9%E3%80%81%E5%88%A0%E9%99%A4%E4%B8%80%E4%B8%AAjQuery%E5%AF%B9%E8%B1%A1%E7%9A%84class%E7%B1%BB.md)

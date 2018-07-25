@@ -68,7 +68,7 @@ $uri为变量，代表你访问的地址。
 
 我的个人博客地址：[http://www.xiaolongwu.cn](http://www.xiaolongwu.cn)
 
-github资源地址：[https://github.com/vue -- 如何去掉url默认的锚点#.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/vue/vue%20--%20%E5%A6%82%E4%BD%95%E5%8E%BB%E6%8E%89url%E9%BB%98%E8%AE%A4%E7%9A%84%E9%94%9A%E7%82%B9%23.md)
+github资源地址：[https://github.com/vue -- vue-router的history模式打包后页面空白的解决方案.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/vue/vue%20--%20vue-router%E7%9A%84history%E6%A8%A1%E5%BC%8F%E6%89%93%E5%8C%85%E5%90%8E%E9%A1%B5%E9%9D%A2%E7%A9%BA%E7%99%BD%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
 
 我的CSDN博客地址：[https://blog.csdn.net/wxl1555](https://blog.csdn.net/wxl1555)
 
