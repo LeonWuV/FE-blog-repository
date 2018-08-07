@@ -33,6 +33,10 @@
 2. [js简单算法 -- js中的快速排序.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/js%E7%AE%80%E5%8D%95%E7%AE%97%E6%B3%95/js%E4%B8%AD%E7%9A%84%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F.md)
 3. [js简单算法 -- js获取一个字符串中个数最多的字母.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/js%E7%AE%80%E5%8D%95%E7%AE%97%E6%B3%95/js%E8%8E%B7%E5%8F%96%E4%B8%80%E4%B8%AA%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E4%B8%AA%E6%95%B0%E6%9C%80%E5%A4%9A%E7%9A%84%E5%AD%97%E6%AF%8D.md)
 
+#### js设计模式
+1. [js模块化的发展历程.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/js%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/js%E6%A8%A1%E5%9D%97%E5%8C%96%E7%9A%84%E5%8F%91%E5%B1%95%E5%8E%86%E7%A8%8B.md)
+2. [JavaScript设计模式--观察者模式（发布者-订阅者模式）.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/js%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F--%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F%EF%BC%88%E5%8F%91%E5%B8%83%E8%80%85-%E8%AE%A2%E9%98%85%E8%80%85%E6%A8%A1%E5%BC%8F%EF%BC%89.md)
+
 #### vue
 1. [--save-dev 与 --save的区别.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/vue/--save-dev%20%E4%B8%8E%20--save%E7%9A%84%E5%8C%BA%E5%88%AB.md)
 2. [vue.js开发神器devtools的安装方法.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/vue/vue.js%E5%BC%80%E5%8F%91%E7%A5%9E%E5%99%A8devtools%E7%9A%84%E5%AE%89%E8%A3%85%E6%96%B9%E6%B3%95.md)
