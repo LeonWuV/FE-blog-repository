@@ -477,7 +477,7 @@ sayHello('ru');
 本文转载自：[https://www.cnblogs.com/lvdabao/p/js-modules-develop.html](https://www.cnblogs.com/lvdabao/p/js-modules-develop.html)
 
 
-我的github资源地址：[https://github.com/.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/js%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/js%E6%A8%A1%E5%9D%97%E5%8C%96%E7%9A%84%E5%8F%91%E5%B1%95%E5%8E%86%E7%A8%8B.md)
+我的github资源地址：[js模块化的发展历程.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/js%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/js%E6%A8%A1%E5%9D%97%E5%8C%96%E7%9A%84%E5%8F%91%E5%B1%95%E5%8E%86%E7%A8%8B.md)
 
 我的个人博客地址：[http://www.xiaolongwu.cn](http://www.xiaolongwu.cn)
 
