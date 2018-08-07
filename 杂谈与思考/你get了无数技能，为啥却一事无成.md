@@ -58,7 +58,7 @@
 
 我的个人博客地址：[http://www.xiaolongwu.cn](http://www.xiaolongwu.cn)
 
-github资源地址：[https://github.com/.md]()
+github资源地址：[https://github.com/你get了无数技能，为啥却一事无成.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/%E6%9D%82%E8%B0%88%E4%B8%8E%E6%80%9D%E8%80%83/%E4%BD%A0get%E4%BA%86%E6%97%A0%E6%95%B0%E6%8A%80%E8%83%BD%EF%BC%8C%E4%B8%BA%E5%95%A5%E5%8D%B4%E4%B8%80%E4%BA%8B%E6%97%A0%E6%88%90.md)
 
 我的CSDN博客地址：[https://blog.csdn.net/wxl1555](https://blog.csdn.net/wxl1555)
 
