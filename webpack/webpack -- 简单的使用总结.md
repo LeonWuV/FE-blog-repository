@@ -29,7 +29,7 @@ webpack 是一个现代 JavaScript 应用程序的模块打包器(module bundler
 
 我的个人博客地址：[http://www.xiaolongwu.cn](http://www.xiaolongwu.cn)
 
-github资源地址：[https://github.com/webpack -- 简单的使用总结.md]()
+github资源地址：[https://github.com/webpack -- 简单的使用总结.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/webpack/webpack%20--%20%E7%AE%80%E5%8D%95%E7%9A%84%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93.md)
 
 我的CSDN博客地址：[https://blog.csdn.net/wxl1555](https://blog.csdn.net/wxl1555)
 

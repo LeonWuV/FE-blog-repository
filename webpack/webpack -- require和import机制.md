@@ -55,7 +55,7 @@ rollup提出了module这个字段，其原因是一般主流的模块或者库�
 
 我的个人博客地址：[http://www.xiaolongwu.cn](http://www.xiaolongwu.cn)
 
-github资源地址：[https://github.com/webpack -- require和import机制.md]()
+github资源地址：[https://github.com/webpack -- require和import机制.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/webpack/webpack%20--%20require%E5%92%8Cimport%E6%9C%BA%E5%88%B6.md)
 
 我的CSDN博客地址：[https://blog.csdn.net/wxl1555](https://blog.csdn.net/wxl1555)
 
