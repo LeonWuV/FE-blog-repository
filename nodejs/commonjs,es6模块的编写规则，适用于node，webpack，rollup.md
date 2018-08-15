@@ -115,7 +115,7 @@ import str from 'demo1' //导入的时候没有花括号
 使用export default命令，为模块指定默认输出，这样就不需要知道所要加载模块的变量名
 
 
-我的github资源地址：[commonjs,es6模块的编写规则，适用于node，webpack，rollup.md]()
+我的github资源地址：[commonjs,es6模块的编写规则，适用于node，webpack，rollup.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/nodejs/commonjs%2Ces6%E6%A8%A1%E5%9D%97%E7%9A%84%E7%BC%96%E5%86%99%E8%A7%84%E5%88%99%EF%BC%8C%E9%80%82%E7%94%A8%E4%BA%8Enode%EF%BC%8Cwebpack%EF%BC%8Crollup.md)
 
 我的个人博客地址：[http://www.xiaolongwu.cn](http://www.xiaolongwu.cn)
 
