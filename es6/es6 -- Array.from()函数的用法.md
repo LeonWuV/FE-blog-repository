@@ -141,7 +141,7 @@ console.log( Array.from(
 
 
 
-我的github资源地址：[es6 -- Array.from()函数的用法]()
+我的github资源地址：[es6 -- Array.from()函数的用法](https://github.com/LeonWuV/FE-blog-repository/blob/master/es6/es6%20--%20Array.from()%E5%87%BD%E6%95%B0%E7%9A%84%E7%94%A8%E6%B3%95.md)
 
 我的个人博客地址：[http://www.xiaolongwu.cn](http://www.xiaolongwu.cn)
 
