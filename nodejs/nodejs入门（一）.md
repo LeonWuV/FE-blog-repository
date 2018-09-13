@@ -147,7 +147,7 @@ node main.js
 虽然一般我们使用JS编写模块，但NodeJS也支持使用C/C++编写二进制模块。编译好的二进制模块除了文件扩展名是.node外，和JS模块的使用方式相同。虽然二进制模块能使用操作系统提供的所有功能，拥有无限的潜能，但对于前端同学而言编写过于困难，并且难以跨平台使用，因此不在本教程的覆盖范围内。
 
 
-我的github资源地址：[nodejs入门（一）]()
+我的github资源地址：[nodejs入门（一）](https://github.com/LeonWuV/FE-blog-repository/blob/master/nodejs/nodejs%E5%85%A5%E9%97%A8%EF%BC%88%E4%B8%80%EF%BC%89.md)
 
 我的个人博客地址：[http://www.xiaolongwu.cn](http://www.xiaolongwu.cn)
 

@@ -65,6 +65,7 @@
 
 ### nodejs
 1. [commonjs,es6模块的编写规则，适用于node，webpack，rollup.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/nodejs/commonjs%2Ces6%E6%A8%A1%E5%9D%97%E7%9A%84%E7%BC%96%E5%86%99%E8%A7%84%E5%88%99%EF%BC%8C%E9%80%82%E7%94%A8%E4%BA%8Enode%EF%BC%8Cwebpack%EF%BC%8Crollup.md)
+2. [nodejs入门（一）](https://github.com/LeonWuV/FE-blog-repository/blob/master/nodejs/nodejs%E5%85%A5%E9%97%A8%EF%BC%88%E4%B8%80%EF%BC%89.md)
 
 #### 前端优化
 1. [关于重绘（repaint）和回流（reflow）的理解.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/%E5%89%8D%E7%AB%AF%E4%BC%98%E5%8C%96/%E5%85%B3%E4%BA%8E%E9%87%8D%E7%BB%98%EF%BC%88repaint%EF%BC%89%E5%92%8C%E5%9B%9E%E6%B5%81%EF%BC%88reflow%EF%BC%89%E7%9A%84%E7%90%86%E8%A7%A3.md)
