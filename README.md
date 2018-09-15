@@ -66,6 +66,8 @@
 ### nodejs
 1. [commonjs,es6模块的编写规则，适用于node，webpack，rollup.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/nodejs/commonjs%2Ces6%E6%A8%A1%E5%9D%97%E7%9A%84%E7%BC%96%E5%86%99%E8%A7%84%E5%88%99%EF%BC%8C%E9%80%82%E7%94%A8%E4%BA%8Enode%EF%BC%8Cwebpack%EF%BC%8Crollup.md)
 2. [nodejs入门（一）](https://github.com/LeonWuV/FE-blog-repository/blob/master/nodejs/nodejs%E5%85%A5%E9%97%A8%EF%BC%88%E4%B8%80%EF%BC%89.md)
+3. [nodejs -- node-sass安装失败的解决方案](https://github.com/LeonWuV/FE-blog-repository/blob/master/nodejs/nodejs%20--%20node-sass%E5%AE%89%E8%A3%85%E5%A4%B1%E8%B4%A5%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
+4. [nodejs -- Node Sass does not yet support your current environment解决办法](https://github.com/LeonWuV/FE-blog-repository/blob/master/nodejs/nodejs%20--%20Node%20Sass%20does%20not%20yet%20support%20your%20current%20environment%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95.md)
 
 #### 前端优化
 1. [关于重绘（repaint）和回流（reflow）的理解.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/%E5%89%8D%E7%AB%AF%E4%BC%98%E5%8C%96/%E5%85%B3%E4%BA%8E%E9%87%8D%E7%BB%98%EF%BC%88repaint%EF%BC%89%E5%92%8C%E5%9B%9E%E6%B5%81%EF%BC%88reflow%EF%BC%89%E7%9A%84%E7%90%86%E8%A7%A3.md)
