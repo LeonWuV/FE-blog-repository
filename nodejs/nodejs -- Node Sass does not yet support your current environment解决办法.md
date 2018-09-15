@@ -25,7 +25,7 @@ cnpm install node-sass -D
 
 
 
-我的github资源地址：[nodejs -- Node Sass does not yet support your current environment解决办法]()
+我的github资源地址：[nodejs -- Node Sass does not yet support your current environment解决办法](https://github.com/LeonWuV/FE-blog-repository/blob/master/nodejs/nodejs%20--%20Node%20Sass%20does%20not%20yet%20support%20your%20current%20environment%E8%A7%A3%E5%86%B3%E5%8A%9E%E6%B3%95.md)
 
 我的个人博客地址：[http://www.xiaolongwu.cn](http://www.xiaolongwu.cn)
 
