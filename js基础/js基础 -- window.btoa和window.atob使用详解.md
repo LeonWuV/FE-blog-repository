@@ -38,7 +38,7 @@ var ff = decodeURIComponent(atob(dd));
 // 结果 "哈哈"
 ```
 
-我的github资源地址：[js基础 -- window.btoa和window.atob使用详解]()
+我的github资源地址：[js基础 -- window.btoa和window.atob使用详解](https://github.com/LeonWuV/FE-blog-repository/blob/master/js%E5%9F%BA%E7%A1%80/js%E5%9F%BA%E7%A1%80%20--%20window.btoa%E5%92%8Cwindow.atob%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3.md)
 
 我的个人博客地址：[http://www.xiaolongwu.cn](http://www.xiaolongwu.cn)
 
