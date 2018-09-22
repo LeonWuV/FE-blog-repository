@@ -19,7 +19,7 @@
 11. npm view <jquery> versions  查看npm服务器上某个包的所有版本,只显示版本号      
 13.  npm view <jquery> version   查看npm服务器上某个包的最新版本,只显示版本号       
 12. npm info <jquery>  查看npm服务器上某个包的所有版本     类似于（npm view <jquery>）
-14. ==npm的start命令是一个特殊的脚本名称，其特殊性表现在，在命令行中使用npm start就可以执行其在脚本里对应的命令，如果对应的此脚本名称不是start，想要在命令行中运行时，需要这样用npm run {script name}如npm run build==
+14. npm的start命令是一个特殊的脚本名称，其特殊性表现在，在命令行中使用npm start就可以执行其在脚本里对应的命令，如果对应的此脚本名称不是start，想要在命令行中运行时，需要这样用npm run {script name} 如npm run build
 15. npm config ls 或者npm config list  查看npm的配置文件
 16. npm config ls -l 获取更多的npm的配置文件
 17. npm config get registry  查看npm下载包的源
@@ -33,7 +33,7 @@
 #### 不定期更新......
 ---
 
-我的github资源地址：[npm常见命令]()
+我的github资源地址：[npm常见命令](https://github.com/LeonWuV/FE-blog-repository/blob/master/nodejs/npm%E5%B8%B8%E8%A7%81%E5%91%BD%E4%BB%A4.md)
 
 我的个人博客地址：[http://www.xiaolongwu.cn](http://www.xiaolongwu.cn)
 
