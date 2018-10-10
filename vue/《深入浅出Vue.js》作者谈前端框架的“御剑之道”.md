@@ -148,7 +148,7 @@ UI = render(state)
 
 我的个人博客地址：[http://www.xiaolongwu.cn](http://www.xiaolongwu.cn)
 
-github资源地址：[《深入浅出Vue.js》作者谈前端框架的“御剑之道”]()
+github资源地址：[《深入浅出Vue.js》作者谈前端框架的“御剑之道”](https://github.com/LeonWuV/FE-blog-repository/blob/master/vue/%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAVue.js%E3%80%8B%E4%BD%9C%E8%80%85%E8%B0%88%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6%E7%9A%84%E2%80%9C%E5%BE%A1%E5%89%91%E4%B9%8B%E9%81%93%E2%80%9D.md)
 
 我的CSDN博客地址：[https://blog.csdn.net/wxl1555](https://blog.csdn.net/wxl1555)
 

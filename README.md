@@ -47,6 +47,7 @@
 6. [我们为什么要用vue，他解决了什么问题，如何使用它？（转载）.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/vue/%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%94%A8vue%EF%BC%8C%E4%BB%96%E8%A7%A3%E5%86%B3%E4%BA%86%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98%EF%BC%8C%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E5%AE%83%EF%BC%9F%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89.md)
 7. [vue -- 如何去掉url默认的锚点#](https://github.com/LeonWuV/FE-blog-repository/blob/master/vue/vue%20--%20%E5%A6%82%E4%BD%95%E5%8E%BB%E6%8E%89url%E9%BB%98%E8%AE%A4%E7%9A%84%E9%94%9A%E7%82%B9%23.md)
 8. [vue -- vue-router的history模式打包后页面空白的解决方案](https://github.com/LeonWuV/FE-blog-repository/blob/master/vue/vue%20--%20vue-router%E7%9A%84history%E6%A8%A1%E5%BC%8F%E6%89%93%E5%8C%85%E5%90%8E%E9%A1%B5%E9%9D%A2%E7%A9%BA%E7%99%BD%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
+9. [《深入浅出Vue.js》作者谈前端框架的“御剑之道”](https://github.com/LeonWuV/FE-blog-repository/blob/master/vue/%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAVue.js%E3%80%8B%E4%BD%9C%E8%80%85%E8%B0%88%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6%E7%9A%84%E2%80%9C%E5%BE%A1%E5%89%91%E4%B9%8B%E9%81%93%E2%80%9D.md)
 
 #### jQuery
 1. [ie11 Object doesn't support property or method 'attachEvent'.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/jQuery/ie11%20Object%20doesn't%20support%20property%20or%20method%20'attachEvent'.md)
