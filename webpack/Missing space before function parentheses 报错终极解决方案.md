@@ -52,7 +52,7 @@
 
 我的个人博客地址：[http://www.xiaolongwu.cn](http://www.xiaolongwu.cn)
 
-github资源地址：[]()
+github资源地址：[Missing space before function parentheses 报错终极解决方案](https://github.com/LeonWuV/FE-blog-repository/blob/master/webpack/Missing%20space%20before%20function%20parentheses%20%E6%8A%A5%E9%94%99%E7%BB%88%E6%9E%81%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
 
 我的CSDN博客地址：[https://blog.csdn.net/wxl1555](https://blog.csdn.net/wxl1555)
 

@@ -64,6 +64,7 @@
 3. [webpack -- 关于proxyTable的配置在开发环境和生产环境中的原理解析.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/webpack/webpack%20--%20%E5%85%B3%E4%BA%8EproxyTable%E7%9A%84%E9%85%8D%E7%BD%AE%E5%9C%A8%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E5%92%8C%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%E4%B8%AD%E7%9A%84%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90.md)
 4. [webpack -- require和import机制.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/webpack/webpack%20--%20require%E5%92%8Cimport%E6%9C%BA%E5%88%B6.md)
 5. [webpack -- 简单的使用总结.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/webpack/webpack%20--%20%E7%AE%80%E5%8D%95%E7%9A%84%E4%BD%BF%E7%94%A8%E6%80%BB%E7%BB%93.md)
+6. [Missing space before function parentheses 报错终极解决方案](https://github.com/LeonWuV/FE-blog-repository/blob/master/webpack/Missing%20space%20before%20function%20parentheses%20%E6%8A%A5%E9%94%99%E7%BB%88%E6%9E%81%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
 
 ### nodejs
 1. [commonjs,es6模块的编写规则，适用于node，webpack，rollup.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/nodejs/commonjs%2Ces6%E6%A8%A1%E5%9D%97%E7%9A%84%E7%BC%96%E5%86%99%E8%A7%84%E5%88%99%EF%BC%8C%E9%80%82%E7%94%A8%E4%BA%8Enode%EF%BC%8Cwebpack%EF%BC%8Crollup.md)
