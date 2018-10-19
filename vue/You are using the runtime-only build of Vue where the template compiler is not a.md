@@ -9,6 +9,7 @@
 #### 原因
  vue有两种形式的代码   compiler（模板）模式和runtime模式（运行时），vue模块的package.json的main字段默认为runtime模式， 指向了"dist/vue.runtime.common.js"位置。
  
+ 
  这是vue升级到2.0之后就有的特点。
  
  而我的app.vue文件中，初始化vue却是这么写的，这种形式为compiler模式的，所以就会出现上面的错误信息
@@ -74,7 +75,7 @@ import Vue from 'vue/dist/vue.esm.js'
 
 我的个人博客地址：[http://www.xiaolongwu.cn](http://www.xiaolongwu.cn)
 
-github资源地址：[]()
+github资源地址：[You are using the runtime-only build of Vue where the template compiler is not available. Either pre-compile the templates into render functions, or use the compiler-included build](https://github.com/LeonWuV/FE-blog-repository/blob/master/vue/You%20are%20using%20the%20runtime-only%20build%20of%20Vue%20where%20the%20template%20compiler%20is%20not%20a.md)
 
 我的CSDN博客地址：[https://blog.csdn.net/wxl1555](https://blog.csdn.net/wxl1555)
 
