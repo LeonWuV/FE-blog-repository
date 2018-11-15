@@ -49,6 +49,8 @@
 8. [vue -- vue-router的history模式打包后页面空白的解决方案](https://github.com/LeonWuV/FE-blog-repository/blob/master/vue/vue%20--%20vue-router%E7%9A%84history%E6%A8%A1%E5%BC%8F%E6%89%93%E5%8C%85%E5%90%8E%E9%A1%B5%E9%9D%A2%E7%A9%BA%E7%99%BD%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
 9. [《深入浅出Vue.js》作者谈前端框架的“御剑之道”](https://github.com/LeonWuV/FE-blog-repository/blob/master/vue/%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BAVue.js%E3%80%8B%E4%BD%9C%E8%80%85%E8%B0%88%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6%E7%9A%84%E2%80%9C%E5%BE%A1%E5%89%91%E4%B9%8B%E9%81%93%E2%80%9D.md)
 10. [You are using the runtime-only build of Vue where the template compiler is not available. Either pre-compile the templates into render functions, or use the compiler-included build](https://github.com/LeonWuV/FE-blog-repository/blob/master/vue/You%20are%20using%20the%20runtime-only%20build%20of%20Vue%20where%20the%20template%20compiler%20is%20not%20a.md)
+11. [vue -- Cannot set property 'render' of undefined解决方法](https://github.com/LeonWuV/FE-blog-repository/blob/master/vue/vue%20--%20Cannot%20set%20property%20'render'%20of%20undefined%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95.md)
+12. [vue -- 父组件通过$refs获取子组件的值和方法](https://github.com/LeonWuV/FE-blog-repository/blob/master/vue/vue%20--%20%E7%88%B6%E7%BB%84%E4%BB%B6%E9%80%9A%E8%BF%87%24refs%E8%8E%B7%E5%8F%96%E5%AD%90%E7%BB%84%E4%BB%B6%E7%9A%84%E5%80%BC%E5%92%8C%E6%96%B9%E6%B3%95.md)
 
 #### jQuery
 1. [ie11 Object doesn't support property or method 'attachEvent'.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/jQuery/ie11%20Object%20doesn't%20support%20property%20or%20method%20'attachEvent'.md)

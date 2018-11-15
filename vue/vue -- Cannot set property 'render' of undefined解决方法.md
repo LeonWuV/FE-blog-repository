@@ -15,7 +15,7 @@
 
 我的个人博客地址：[http://www.xiaolongwu.cn](http://www.xiaolongwu.cn)
 
-github资源地址：[vue -- Cannot set property 'render' of undefined解决方法]()
+github资源地址：[vue -- Cannot set property 'render' of undefined解决方法](https://github.com/LeonWuV/FE-blog-repository/blob/master/vue/vue%20--%20Cannot%20set%20property%20'render'%20of%20undefined%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95.md)
 
 我的CSDN博客地址：[https://blog.csdn.net/wxl1555](https://blog.csdn.net/wxl1555)
 

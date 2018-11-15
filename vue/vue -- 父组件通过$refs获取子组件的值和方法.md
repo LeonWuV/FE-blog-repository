@@ -84,7 +84,7 @@ export default {
 
 我的个人博客地址：[http://www.xiaolongwu.cn](http://www.xiaolongwu.cn)
 
-github资源地址：[vue -- Cannot set property 'render' of undefined解决方法]()
+github资源地址：[vue -- 父组件通过$refs获取子组件的值和方法](https://github.com/LeonWuV/FE-blog-repository/blob/master/vue/vue%20--%20%E7%88%B6%E7%BB%84%E4%BB%B6%E9%80%9A%E8%BF%87%24refs%E8%8E%B7%E5%8F%96%E5%AD%90%E7%BB%84%E4%BB%B6%E7%9A%84%E5%80%BC%E5%92%8C%E6%96%B9%E6%B3%95.md)
 
 我的CSDN博客地址：[https://blog.csdn.net/wxl1555](https://blog.csdn.net/wxl1555)
 
