@@ -1,4 +1,8 @@
-欢迎访问我的个人博客：[http://www.xiaolongwu.cn](http://www.xiaolongwu.cn)
+---
+title: You are using the runtime-only build of Vue where the template compiler is not a
+date: 2018-10-22 19:34:10
+tags: vue
+---
 
 在升级脚手架到vue-cli3.0版本的时候出现了这个报错：
 
@@ -8,7 +12,6 @@
 
 #### 原因
  vue有两种形式的代码   compiler（模板）模式和runtime模式（运行时），vue模块的package.json的main字段默认为runtime模式， 指向了"dist/vue.runtime.common.js"位置。
- 
  
  这是vue升级到2.0之后就有的特点。
  
@@ -75,7 +78,7 @@ import Vue from 'vue/dist/vue.esm.js'
 
 我的个人博客地址：[http://www.xiaolongwu.cn](http://www.xiaolongwu.cn)
 
-github资源地址：[You are using the runtime-only build of Vue where the template compiler is not available. Either pre-compile the templates into render functions, or use the compiler-included build](https://github.com/LeonWuV/FE-blog-repository/blob/master/vue/You%20are%20using%20the%20runtime-only%20build%20of%20Vue%20where%20the%20template%20compiler%20is%20not%20a.md)
+github资源地址：[]()
 
 我的CSDN博客地址：[https://blog.csdn.net/wxl1555](https://blog.csdn.net/wxl1555)
 
