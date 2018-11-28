@@ -15,7 +15,7 @@
 
 我们在index.js文件中找到如下代码：我推荐了一种写法，后面我会说为什么
 
-![proxyTable配置](http://olv6wm3nj.bkt.clouddn.com/18-7-19/46851830.jpg)
+![proxyTable配置](https://raw.githubusercontent.com/LeonWuV/ftp/master/pictures/vue/1543380085.jpg)
 
 那么我请求的那段代码就是这样的
 ```
