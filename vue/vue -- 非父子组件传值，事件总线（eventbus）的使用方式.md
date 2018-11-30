@@ -171,7 +171,7 @@ export default new Vue()
 
 我的个人博客地址：[http://www.xiaolongwu.cn](http://www.xiaolongwu.cn)
 
-github资源地址：[vue -- 事件总线（eventbus）的使用方式]()
+github资源地址：[vue -- 非父子组件传值，事件总线（eventbus）的使用方式](https://github.com/LeonWuV/FE-blog-repository/blob/master/vue/vue%20--%20%E9%9D%9E%E7%88%B6%E5%AD%90%E7%BB%84%E4%BB%B6%E4%BC%A0%E5%80%BC%EF%BC%8C%E4%BA%8B%E4%BB%B6%E6%80%BB%E7%BA%BF%EF%BC%88eventbus%EF%BC%89%E7%9A%84%E4%BD%BF%E7%94%A8%E6%96%B9%E5%BC%8F.md)
 
 我的CSDN博客地址：[https://blog.csdn.net/wxl1555](https://blog.csdn.net/wxl1555)
 
