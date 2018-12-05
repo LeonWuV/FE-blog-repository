@@ -24,7 +24,7 @@ data() {
 
 我的个人博客地址：[http://www.xiaolongwu.cn](http://www.xiaolongwu.cn)
 
-github资源地址：[vue -- foreach not a function 或者map not a function的解决办吧]()
+github资源地址：[vue -- foreach not a function 或者map not a function的解决办吧](https://github.com/LeonWuV/FE-blog-repository/blob/master/vue/vue%20--%20foreach%20not%20a%20function%20%E6%88%96%E8%80%85map%20not%20a%20function%E7%9A%84%E8%A7%A3%E5%86%B3%E5%8A%9E%E5%90%A7.md)
 
 我的CSDN博客地址：[https://blog.csdn.net/wxl1555](https://blog.csdn.net/wxl1555)
 
