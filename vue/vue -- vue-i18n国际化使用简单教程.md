@@ -171,7 +171,7 @@ onChangeLang() {
 
 我的个人博客地址：[http://www.xiaolongwu.cn](http://www.xiaolongwu.cn)
 
-github资源地址：[vue -- vue-i18n国际化使用简单教程]()
+github资源地址：[vue -- vue-i18n国际化使用简单教程](https://github.com/LeonWuV/FE-blog-repository/blob/master/vue/vue%20--%20vue-i18n%E5%9B%BD%E9%99%85%E5%8C%96%E4%BD%BF%E7%94%A8%E7%AE%80%E5%8D%95%E6%95%99%E7%A8%8B.md)
 
 我的CSDN博客地址：[https://blog.csdn.net/wxl1555](https://blog.csdn.net/wxl1555)
 
