@@ -96,6 +96,7 @@
 
 #### git
 1. [git bash、cmder 下操作文件及文件夹相关命令.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/git/git%20bash%E3%80%81cmder%20%E4%B8%8B%E6%93%8D%E4%BD%9C%E6%96%87%E4%BB%B6%E5%8F%8A%E6%96%87%E4%BB%B6%E5%A4%B9%E7%9B%B8%E5%85%B3%E5%91%BD%E4%BB%A4.md)
+2. [git -- git emoji列表（github commit 前面的小icon）](https://github.com/LeonWuV/FE-blog-repository/blob/master/git/git%20--%20git%20emoji%E5%88%97%E8%A1%A8%EF%BC%88github%20commit%20%E5%89%8D%E9%9D%A2%E7%9A%84%E5%B0%8Ficon%EF%BC%89.md)
 
 #### hexo
 1. [hexo系列问题之我们换了电脑怎么办.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/hexo/hexo%E7%B3%BB%E5%88%97%E9%97%AE%E9%A2%98%E4%B9%8B%E6%88%91%E4%BB%AC%E6%8D%A2%E4%BA%86%E7%94%B5%E8%84%91%E6%80%8E%E4%B9%88%E5%8A%9E.md)

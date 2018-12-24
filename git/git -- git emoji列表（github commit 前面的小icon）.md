@@ -160,9 +160,10 @@ Git commit emoji 指南
 </tr>
 </tbody>
 </table>
- [附上github原项目链接：carloscuesta/gitmoji](https://github.com/liuchengxu/git-commit-emoji-cn)
 
-我的github资源地址：[git -- git emoji列表（github commit 前面的小icon）]()
+[附上github原项目链接：carloscuesta/gitmoji](https://github.com/liuchengxu/git-commit-emoji-cn)
+
+我的github资源地址：[git -- git emoji列表（github commit 前面的小icon）](https://github.com/LeonWuV/FE-blog-repository/blob/master/git/git%20--%20git%20emoji%E5%88%97%E8%A1%A8%EF%BC%88github%20commit%20%E5%89%8D%E9%9D%A2%E7%9A%84%E5%B0%8Ficon%EF%BC%89.md)
 
 我的个人博客地址：[http://www.xiaolongwu.cn](http://www.xiaolongwu.cn)
 
