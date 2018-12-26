@@ -158,7 +158,7 @@ aa()
 ```
 看看上面的代码是不是舒服多了 ，也简单多了；
 
-github资源地址：[]()
+github资源地址：[js基础进阶--从ajax到fetch的理解](https://github.com/LeonWuV/FE-blog-repository/blob/master/js%E5%9F%BA%E7%A1%80%E8%BF%9B%E9%98%B6/js%E5%9F%BA%E7%A1%80%E8%BF%9B%E9%98%B6--%E4%BB%8Eajax%E5%88%B0fetch%E7%9A%84%E7%90%86%E8%A7%A3.md)
 
 我的CSDN博客地址：[https://blog.csdn.net/wxl1555](https://blog.csdn.net/wxl1555)
 

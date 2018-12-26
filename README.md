@@ -27,6 +27,7 @@
 #### js基础进阶
 1. [js基础进阶 -- 关于Array.prototype.slice.call(arguments) 的思考.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/js%E5%9F%BA%E7%A1%80%E8%BF%9B%E9%98%B6/js%E5%9F%BA%E7%A1%80%E8%BF%9B%E9%98%B6--%E5%85%B3%E4%BA%8EArray.prototype.slice.call(arguments)%20%E7%9A%84%E6%80%9D%E8%80%83.md)
 2. [js基础进阶 -- 函数柯里化carrying.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/js%E5%9F%BA%E7%A1%80%E8%BF%9B%E9%98%B6/js%E5%9F%BA%E7%A1%80%E8%BF%9B%E9%98%B6--%E5%87%BD%E6%95%B0%E6%9F%AF%E9%87%8C%E5%8C%96carrying.md)
+3. [js基础进阶--从ajax到fetch的理解](https://github.com/LeonWuV/FE-blog-repository/blob/master/js%E5%9F%BA%E7%A1%80%E8%BF%9B%E9%98%B6/js%E5%9F%BA%E7%A1%80%E8%BF%9B%E9%98%B6--%E4%BB%8Eajax%E5%88%B0fetch%E7%9A%84%E7%90%86%E8%A7%A3.md)
 
 
 #### js简单算法
