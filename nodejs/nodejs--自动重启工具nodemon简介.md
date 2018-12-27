@@ -29,9 +29,7 @@ nodemon server.js   //相当于node server.js
 
 
 
-
-
-我的github资源地址：[nodejs--自动重启工具nodemon简介]()
+我的github资源地址：[nodejs--自动重启工具nodemon简介](https://github.com/LeonWuV/FE-blog-repository/blob/master/nodejs/nodejs--%E8%87%AA%E5%8A%A8%E9%87%8D%E5%90%AF%E5%B7%A5%E5%85%B7nodemon%E7%AE%80%E4%BB%8B.md)
 
 我的CSDN博客地址：[https://blog.csdn.net/wxl1555](https://blog.csdn.net/wxl1555)
 
