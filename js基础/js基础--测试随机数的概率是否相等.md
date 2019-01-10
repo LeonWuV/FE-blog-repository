@@ -42,7 +42,7 @@ function randomArr(a, b) {
 
 由此，我们大致能得出结论，随机数的每项概率基本是相等的；
 
-github资源地址：[]()
+github资源地址：[js基础--测试随机数的概率是否相等](https://github.com/LeonWuV/FE-blog-repository/blob/master/js%E5%9F%BA%E7%A1%80/js%E5%9F%BA%E7%A1%80--%E6%B5%8B%E8%AF%95%E9%9A%8F%E6%9C%BA%E6%95%B0%E7%9A%84%E6%A6%82%E7%8E%87%E6%98%AF%E5%90%A6%E7%9B%B8%E7%AD%89.md)
 
 我的CSDN博客地址：[https://blog.csdn.net/wxl1555](https://blog.csdn.net/wxl1555)
 

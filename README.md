@@ -23,6 +23,7 @@
 10. [js基础 -- 图片上传时实现本地预览功能的原理.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/js%E5%9F%BA%E7%A1%80/%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E6%97%B6%E5%AE%9E%E7%8E%B0%E6%9C%AC%E5%9C%B0%E9%A2%84%E8%A7%88%E5%8A%9F%E8%83%BD%E7%9A%84%E5%8E%9F%E7%90%86.md)
 11. [js基础 -- 在iframe标签中如何操作父页面中的元素、方法、变量.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/js%E5%9F%BA%E7%A1%80/%E5%A6%82%E4%BD%95%E6%93%8D%E4%BD%9Ciframe%E7%88%B6%E9%A1%B5%E9%9D%A2%E4%B8%AD%E7%9A%84%E5%85%83%E7%B4%A0%E3%80%81%E6%96%B9%E6%B3%95%E3%80%81%E5%8F%98%E9%87%8F.md)
 12. [js基础 -- window.btoa和window.atob使用详解](https://github.com/LeonWuV/FE-blog-repository/blob/master/js%E5%9F%BA%E7%A1%80/js%E5%9F%BA%E7%A1%80%20--%20window.btoa%E5%92%8Cwindow.atob%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3.md)
+13. [js基础--测试随机数的概率是否相等](https://github.com/LeonWuV/FE-blog-repository/blob/master/js%E5%9F%BA%E7%A1%80/js%E5%9F%BA%E7%A1%80--%E6%B5%8B%E8%AF%95%E9%9A%8F%E6%9C%BA%E6%95%B0%E7%9A%84%E6%A6%82%E7%8E%87%E6%98%AF%E5%90%A6%E7%9B%B8%E7%AD%89.md)
 
 #### js基础进阶
 1. [js基础进阶 -- 关于Array.prototype.slice.call(arguments) 的思考.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/js%E5%9F%BA%E7%A1%80%E8%BF%9B%E9%98%B6/js%E5%9F%BA%E7%A1%80%E8%BF%9B%E9%98%B6--%E5%85%B3%E4%BA%8EArray.prototype.slice.call(arguments)%20%E7%9A%84%E6%80%9D%E8%80%83.md)
