@@ -1,0 +1,27 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\q\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add global @tarojs/cli
+
+PATH: 
+  D:\greenApp\cmder\bin;D:\greenApp\cmder\vendor\conemu-maximus5\ConEmu\Scripts;D:\greenApp\cmder\vendor\conemu-maximus5;D:\greenApp\cmder\vendor\conemu-maximus5\ConEmu;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;D:\Program Files\TortoiseSVN\bin;D:\UcloudDev\apache-maven-3.3.9\bin;C:\Program Files\Java\jdk1.8.0_102\bin;C:\Program Files\Git\cmd;D:\greenApp\cmder;d:\Program Files\Microsoft VS Code\bin;C:\Program Files\nodejs\;C:\Users\q\AppData\Local\Programs\Python\Python35\Scripts\;C:\Users\q\AppData\Local\Programs\Python\Python35\;C:\Users\q\AppData\Local\Microsoft\WindowsApps;d:\Program Files\Microsoft VS Code\bin;C:\Users\q\AppData\Local\GitHubDesktop\bin;C:\Users\q\AppData\Roaming\npm;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\share\vim\vim74;D:\greenApp\cmder\
+
+Yarn version: 
+  1.10.0
+
+Node version: 
+  8.15.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: connect ETIMEDOUT 104.16.25.35:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1191:14)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
