@@ -61,7 +61,7 @@ function downFile() {
 
 当然第二种方式和第一种方式的结果是完全一样的，感觉第二种方式更为简单。
 
-github资源地址：[js基础--将内存中的数据保存为文件下载到本地]()
+github资源地址：[js基础--将内存中的数据保存为文件下载到本地](https://github.com/LeonWuV/FE-blog-repository/blob/master/js%E5%9F%BA%E7%A1%80/js%E5%9F%BA%E7%A1%80--%E5%B0%86%E5%86%85%E5%AD%98%E4%B8%AD%E7%9A%84%E6%95%B0%E6%8D%AE%E4%BF%9D%E5%AD%98%E4%B8%BA%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD%E5%88%B0%E6%9C%AC%E5%9C%B0.md)
 
 我的CSDN博客地址：[https://blog.csdn.net/wxl1555](https://blog.csdn.net/wxl1555)
 
