@@ -1,7 +1,7 @@
 我的个人博客：[http://www.xiaolongwu.cn](http://www.xiaolongwu.cn)
 
 接上篇文章：
-[js基础进阶--编码实用技巧(一)]()
+[js基础进阶--编码实用技巧(一)](https://github.com/LeonWuV/FE-blog-repository/blob/master/js%E5%9F%BA%E7%A1%80%E8%BF%9B%E9%98%B6/js%E5%9F%BA%E7%A1%80%E8%BF%9B%E9%98%B6--%E7%BC%96%E7%A0%81%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7(%E4%B8%80).md)
 
 ### 5、合理利用||运算符
 
@@ -103,10 +103,10 @@ var a = Math.floor(Math.random() * (max - min + 1)) + min;
 //我们是不是已经理解了这段代码的意义呢，是不是想忘记都会很难呢？如果没理解就再多想想。
 
 ```
-相关推荐：[js基础进阶--编码实用技巧(一)]()
+相关推荐：[js基础进阶--编码实用技巧(一)](https://github.com/LeonWuV/FE-blog-repository/blob/master/js%E5%9F%BA%E7%A1%80%E8%BF%9B%E9%98%B6/js%E5%9F%BA%E7%A1%80%E8%BF%9B%E9%98%B6--%E7%BC%96%E7%A0%81%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7(%E4%B8%80).md)
 
 
-github资源地址：[js基础进阶--编码的实用技巧(二)]()
+github资源地址：[js基础进阶--编码的实用技巧(二)](https://github.com/LeonWuV/FE-blog-repository/blob/master/js%E5%9F%BA%E7%A1%80%E8%BF%9B%E9%98%B6/js%E5%9F%BA%E7%A1%80%E8%BF%9B%E9%98%B6--%E7%BC%96%E7%A0%81%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7(%E4%BA%8C).md)
 
 
 csdn博客地址：[https://blog.csdn.net/wxl1555](https://blog.csdn.net/wxl1555)

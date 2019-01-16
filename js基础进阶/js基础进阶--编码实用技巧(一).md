@@ -80,10 +80,10 @@ if(a){
 a && console.log("hello leonWu"); //结果是一样的，但是这样是不是简单清晰多了，代码量也少了
 ```
 
-相关链接：[js基础进阶--编码的实用技巧(二)](https://blog.csdn.net/wxl1555/article/details/78736591)
+相关链接：[js基础进阶--编码的实用技巧(二)](https://github.com/LeonWuV/FE-blog-repository/blob/master/js%E5%9F%BA%E7%A1%80%E8%BF%9B%E9%98%B6/js%E5%9F%BA%E7%A1%80%E8%BF%9B%E9%98%B6--%E7%BC%96%E7%A0%81%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7(%E4%BA%8C).md)
 
 
-github资源地址：[js基础进阶--编码实用技巧(一)](https://github.com/LeonWuV/leonwuv.github.io/blob/hexo/source/_posts/js%E7%BC%96%E7%A0%81%E7%9A%84%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A71.md)
+github资源地址：[js基础进阶--编码实用技巧(一)](https://github.com/LeonWuV/FE-blog-repository/blob/master/js%E5%9F%BA%E7%A1%80%E8%BF%9B%E9%98%B6/js%E5%9F%BA%E7%A1%80%E8%BF%9B%E9%98%B6--%E7%BC%96%E7%A0%81%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A7(%E4%B8%80).md)
 
 
 csdn博客地址：[https://blog.csdn.net/wxl1555](https://blog.csdn.net/wxl1555)
