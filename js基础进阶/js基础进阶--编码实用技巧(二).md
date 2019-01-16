@@ -1,5 +1,7 @@
-接上篇文章
-[js编码的实用技巧(一)](http://blog.csdn.net/wxl1555/article/details/78711991)
+我的个人博客：[http://www.xiaolongwu.cn](http://www.xiaolongwu.cn)
+
+接上篇文章：
+[js基础进阶--编码实用技巧(一)]()
 
 ### 5、合理利用||运算符
 
@@ -101,13 +103,14 @@ var a = Math.floor(Math.random() * (max - min + 1)) + min;
 //我们是不是已经理解了这段代码的意义呢，是不是想忘记都会很难呢？如果没理解就再多想想。
 
 ```
-下图为Math对象的常用方法，以供大家学习参考
-![这里提供Math对象的常用方法](http://olv6wm3nj.bkt.clouddn.com/17-12-6/53549635.jpg)
+相关推荐：[js基础进阶--编码实用技巧(一)]()
 
 
+github资源地址：[js基础进阶--编码的实用技巧(二)]()
 
 
+csdn博客地址：[https://blog.csdn.net/wxl1555](https://blog.csdn.net/wxl1555)
 
-**如果您对我的博客内容有疑惑或质疑的地方，请在下方评论区留言，或邮件给我，共同学习进步。**
+如果您对我的博客内容有疑惑或质疑的地方，请在下方评论区留言，或邮件给我，共同学习进步。
 
-**邮箱：wuxiaolong802@163.com**
+邮箱：wuxiaolong802@163.com

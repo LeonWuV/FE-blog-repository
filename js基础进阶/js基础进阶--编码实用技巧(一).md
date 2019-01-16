@@ -1,3 +1,5 @@
+我的个人博客：[http://www.xiaolongwu.cn](http://www.xiaolongwu.cn)
+### 前言
 在平时的开发中，编码技巧很重要，会让你少写很多代码，起到事倍功半的效果。
 
 下面总结几种简单的技巧，大家共同学习一下
@@ -78,11 +80,14 @@ if(a){
 a && console.log("hello leonWu"); //结果是一样的，但是这样是不是简单清晰多了，代码量也少了
 ```
 
-
-##  未完待续。。。。
-
+相关链接：[js基础进阶--编码的实用技巧(二)](https://blog.csdn.net/wxl1555/article/details/78736591)
 
 
-**如果您对我的博客内容有疑惑或质疑的地方，请在下方评论区留言，或邮件给我，共同学习进步。**
+github资源地址：[js基础进阶--编码实用技巧(一)](https://github.com/LeonWuV/leonwuv.github.io/blob/hexo/source/_posts/js%E7%BC%96%E7%A0%81%E7%9A%84%E5%AE%9E%E7%94%A8%E6%8A%80%E5%B7%A71.md)
 
-**邮箱：wuxiaolong802@163.com**
+
+csdn博客地址：[https://blog.csdn.net/wxl1555](https://blog.csdn.net/wxl1555)
+
+如果您对我的博客内容有疑惑或质疑的地方，请在下方评论区留言，或邮件给我，共同学习进步。
+
+邮箱：wuxiaolong802@163.com
