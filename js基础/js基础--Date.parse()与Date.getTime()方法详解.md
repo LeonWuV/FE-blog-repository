@@ -51,7 +51,7 @@ console.log(aa);
 
 以上这些方式都可以返回时间戳，选择其中的一两种记住，然后使用在日常的开发中
 
-我的github资源地址：[js基础--Date.parse()与Date.getTime()方法详解]()
+我的github资源地址：[js基础--Date.parse()与Date.getTime()方法详解](https://github.com/LeonWuV/FE-blog-repository/blob/master/js%E5%9F%BA%E7%A1%80/js%E5%9F%BA%E7%A1%80--Date.parse()%E4%B8%8EDate.getTime()%E6%96%B9%E6%B3%95%E8%AF%A6%E8%A7%A3.md)
 
 我的CSDN博客地址：[https://blog.csdn.net/wxl1555](https://blog.csdn.net/wxl1555)
 
