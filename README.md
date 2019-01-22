@@ -86,6 +86,9 @@
 #### 前端优化
 1. [关于重绘（repaint）和回流（reflow）的理解.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/%E5%89%8D%E7%AB%AF%E4%BC%98%E5%8C%96/%E5%85%B3%E4%BA%8E%E9%87%8D%E7%BB%98%EF%BC%88repaint%EF%BC%89%E5%92%8C%E5%9B%9E%E6%B5%81%EF%BC%88reflow%EF%BC%89%E7%9A%84%E7%90%86%E8%A7%A3.md)
 
+#### 开发bug集合
+1. [bug集合js1--Unexpected token o in JSON at position 1](https://github.com/LeonWuV/FE-blog-repository/blob/master/%E5%BC%80%E5%8F%91bug%E9%9B%86%E5%90%88/bug%E9%9B%86%E5%90%88js1--Unexpected%20token%20o%20in%20JSON%20at%20position%201.md)
+
 #### 微信小程序
 1. [微信小程序错误：WAService.js 3 navigateTo fail url.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E9%94%99%E8%AF%AF%EF%BC%9AWAService.js%203%20navigateTo%20fail%20url.md)
 

@@ -35,7 +35,9 @@ var a = {a:1,b:2,c:"LeonWu"};
 
 #### 为什么会有这样的错误
 
-因为把Object作为参数传到JSON.parse()里时，首先会默利用toString()方法转为string，转换为"[object Object]"，JSON.parse将第一个字符'['理解为数组的开始，第二字符'o'不知道怎么处理;所以就抛出了上面的错误信息 Unexpected token o in JSON at position 1。
+因为把Object作为参数传到JSON.parse()里时，首先会默利用toString()方法转为string，结果为"[object Object]"。
+
+JSON.parse()将第一个字符'['理解为数组的开始，第二字符'o'不知道怎么处理;所以就抛出了上面的错误信息 Unexpected token o in JSON at position 1。
 
 
 --------------------- 分割线，2019年1月22日11:21:03更新-----------------------
@@ -46,7 +48,7 @@ var a = {a:1,b:2,c:"LeonWu"};
 
 
 
-github资源仓库：[bug集合js1--Unexpected token o in JSON at position 1]()
+github资源仓库：[bug集合js1--Unexpected token o in JSON at position 1](https://github.com/LeonWuV/FE-blog-repository/blob/master/%E5%BC%80%E5%8F%91bug%E9%9B%86%E5%90%88/bug%E9%9B%86%E5%90%88js1--Unexpected%20token%20o%20in%20JSON%20at%20position%201.md)
 
 我的CSDN博客地址：[https://blog.csdn.net/wxl1555](https://blog.csdn.net/wxl1555)
 
