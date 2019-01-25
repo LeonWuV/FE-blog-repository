@@ -48,17 +48,15 @@ event loop 的概念
 
 下来遇到promise的回调，他是一个微任务，将它扔进微任务事件对列中。
 
-下来我们打印出5，
+下来我们接着打印出5，然后执行微任务并且打印出4.
 
+我们第一个宏任务执行完毕，执行下一个宏任务，打印出1，到此，所有任务都执行完毕。
 
+所以我们最后的结果为2 3 5 4 1。
 
+##### 结束
 
-
-
-
-
-
-github资源地址：[]()
+github资源地址：[js基础进阶--promise和setTimeout执行顺序的问题](https://github.com/LeonWuV/FE-blog-repository/blob/master/js%E5%9F%BA%E7%A1%80%E8%BF%9B%E9%98%B6/js%E5%9F%BA%E7%A1%80%E8%BF%9B%E9%98%B6--promise%E5%92%8CsetTimeout%E6%89%A7%E8%A1%8C%E9%A1%BA%E5%BA%8F%E7%9A%84%E9%97%AE%E9%A2%98.md)
 
 csdn博客地址：[https://blog.csdn.net/wxl1555](https://blog.csdn.net/wxl1555)
 
