@@ -66,6 +66,7 @@
 #### es6
 1. [es6 -- function](https://github.com/LeonWuV/FE-blog-repository/blob/master/es6/es6--function.md)
 2. [es6 -- Array.from()函数的用法](https://github.com/LeonWuV/FE-blog-repository/blob/master/es6/es6%20--%20Array.from()%E5%87%BD%E6%95%B0%E7%9A%84%E7%94%A8%E6%B3%95.md)
+3. [es6 -- 默认参数Default，不定参数Rest，扩展运算符Spread详解](https://github.com/LeonWuV/FE-blog-repository/blob/master/es6/es6%20--%20%E9%BB%98%E8%AE%A4%E5%8F%82%E6%95%B0Default%EF%BC%8C%E4%B8%8D%E5%AE%9A%E5%8F%82%E6%95%B0Rest%EF%BC%8C%E6%89%A9%E5%B1%95%E8%BF%90%E7%AE%97%E7%AC%A6Spread%E8%AF%A6%E8%A7%A3.md)
 
 ### webpack
 1. [webpack -- 打包时如何将资源和图片引用绝对路径改为相对路径.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/webpack/webpack%20--%20%E6%89%93%E5%8C%85%E6%97%B6%E5%A6%82%E4%BD%95%E5%B0%86%E8%B5%84%E6%BA%90%E5%92%8C%E5%9B%BE%E7%89%87%E5%BC%95%E7%94%A8%E7%BB%9D%E5%AF%B9%E8%B7%AF%E5%BE%84%E6%94%B9%E4%B8%BA%E7%9B%B8%E5%AF%B9%E8%B7%AF%E5%BE%84.md)
