@@ -66,7 +66,7 @@ console.log(0);
 
 
 ---
-github文章资源地址：[js基础进阶--关于setTimeout的思考]()
+github文章资源地址：[js基础进阶--关于setTimeout的思考](https://github.com/LeonWuV/FE-blog-repository/blob/master/js%E5%9F%BA%E7%A1%80/js%E5%9F%BA%E7%A1%80--%E5%85%B3%E4%BA%8EsetTimeout%E7%9A%84%E6%80%9D%E8%80%83.md)
 
 我的CSDN博客地址：[https://blog.csdn.net/wxl1555](https://blog.csdn.net/wxl1555)
 
