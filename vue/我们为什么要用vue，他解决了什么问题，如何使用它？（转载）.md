@@ -232,6 +232,8 @@ Vue.js的组件文件本质上还是普通的代码文件，所以各种编辑�
 
 可能包括我在内的很多人在看到Vue.js那神奇的双向绑定优雅写法都会有一种非常惊艳，而看到中文文档发布之后有种想立马学习的冲动。可惜大前端终究是大前端，如果一个对于前端各个方面没有深入认识就想着能一步登天，肯定对不起大前端的“大”字。原本看着只想学一个Vue.js，没想到顺带把ECMAScript6，Webpack配置，ESLint配置，bable配置，npm使用，node.js语法，以后vue全家桶中的vuex，vue-route等等等等都学了一遍。前段时间网上也流传出了一个职位叫做Webpack配置工程师，从这里也可以看出弄懂前端这个大杂烩确实不是那么容易。大家一起加油，有什么问题也可以在评论区回复，我会抽空补充在文章内容中。谢谢各位的支持！~
 
+---
+github文章资源地址：[我们为什么要用vue，他解决了什么问题，如何使用它？](https://github.com/LeonWuV/FE-blog-repository/blob/master/vue/%E6%88%91%E4%BB%AC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%94%A8vue%EF%BC%8C%E4%BB%96%E8%A7%A3%E5%86%B3%E4%BA%86%E4%BB%80%E4%B9%88%E9%97%AE%E9%A2%98%EF%BC%8C%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E5%AE%83%EF%BC%9F%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89.md)
 
 我的个人博客：[http://xiaolongwu.cn](http://xiaolongwu.cn)
 
