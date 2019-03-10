@@ -28,6 +28,7 @@
 12. [js基础 -- window.btoa和window.atob使用详解](https://github.com/LeonWuV/FE-blog-repository/blob/master/js%E5%9F%BA%E7%A1%80/js%E5%9F%BA%E7%A1%80%20--%20window.btoa%E5%92%8Cwindow.atob%E4%BD%BF%E7%94%A8%E8%AF%A6%E8%A7%A3.md)
 13. [js基础--测试随机数的概率是否相等](https://github.com/LeonWuV/FE-blog-repository/blob/master/js%E5%9F%BA%E7%A1%80/js%E5%9F%BA%E7%A1%80--%E6%B5%8B%E8%AF%95%E9%9A%8F%E6%9C%BA%E6%95%B0%E7%9A%84%E6%A6%82%E7%8E%87%E6%98%AF%E5%90%A6%E7%9B%B8%E7%AD%89.md)
 14. [js基础--将内存中的数据保存为文件下载到本地](https://github.com/LeonWuV/FE-blog-repository/blob/master/js%E5%9F%BA%E7%A1%80/js%E5%9F%BA%E7%A1%80--%E5%B0%86%E5%86%85%E5%AD%98%E4%B8%AD%E7%9A%84%E6%95%B0%E6%8D%AE%E4%BF%9D%E5%AD%98%E4%B8%BA%E6%96%87%E4%BB%B6%E4%B8%8B%E8%BD%BD%E5%88%B0%E6%9C%AC%E5%9C%B0.md)
+15. [js基础--数据类型检测的相关知识](https://github.com/LeonWuV/FE-blog-repository/blob/master/js%E5%9F%BA%E7%A1%80/js%E5%9F%BA%E7%A1%80--%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E6%A3%80%E6%B5%8B%E7%9A%84%E7%9B%B8%E5%85%B3%E7%9F%A5%E8%AF%86.md)
 
 #### js基础进阶
 1. [js基础进阶 -- 关于Array.prototype.slice.call(arguments) 的思考.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/js%E5%9F%BA%E7%A1%80%E8%BF%9B%E9%98%B6/js%E5%9F%BA%E7%A1%80%E8%BF%9B%E9%98%B6--%E5%85%B3%E4%BA%8EArray.prototype.slice.call(arguments)%20%E7%9A%84%E6%80%9D%E8%80%83.md)
