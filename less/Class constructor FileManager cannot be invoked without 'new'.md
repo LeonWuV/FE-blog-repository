@@ -25,7 +25,7 @@ Class constructor FileManager cannot be invoked without 'new'
 ---
 
 
-我的github资源地址：[Class constructor FileManager cannot be invoked without 'new']()
+我的github资源地址：[Class constructor FileManager cannot be invoked without 'new'](https://github.com/LeonWuV/FE-blog-repository/blob/master/less/Class%20constructor%20FileManager%20cannot%20be%20invoked%20without%20'new'.md)
 
 我的CSDN博客地址：[https://blog.csdn.net/wxl1555](https://blog.csdn.net/wxl1555)
 
