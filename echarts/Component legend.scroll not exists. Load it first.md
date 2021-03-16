@@ -116,7 +116,7 @@ import "echarts/zrender/lib/svg/svg";
 
 ---
 
-github资源地址：[echarts -- Component legend.scroll not exists. Load it first](https://github.com/LeonWuV/FE-blog-repository/blob/master/vue/vue%20--%20vue-i18n%E5%9B%BD%E9%99%85%E5%8C%96%E4%BD%BF%E7%94%A8%E7%AE%80%E5%8D%95%E6%95%99%E7%A8%8B.md)
+github资源地址：[echarts -- Component legend.scroll not exists. Load it first](https://github.com/LeonWuV/FE-blog-repository/blob/master/echarts/Component%20legend.scroll%20not%20exists.%20Load%20it%20first.md)
 
 我的CSDN博客地址：[https://blog.csdn.net/wxl1555](https://blog.csdn.net/wxl1555)
 
