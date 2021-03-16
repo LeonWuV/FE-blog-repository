@@ -1,3 +1,14 @@
+### 公众号
+欢迎大家关注博主的公众号：<strong>猿人说事</strong>，会不定期推送文章
+<p align="center">
+  <img src="http://storage.360buyimg.com/cdn-upload/yuanRenQR83057a63644441fda8a095ae68c574c5.jpg" alt="猿人说事-logo" width="150px" height="150px"/>
+  <br>
+</p>
+<p align="center">
+  <strong>猿人说事</strong>
+  <br>
+</p>
+
 ### :bug: 有问题请留言
 各位同学可以在issues中提问，无论是实际项目中遇到的问题，或者是技术问题都可以， 大家一起解决:100: :+1: :smile:。
 
