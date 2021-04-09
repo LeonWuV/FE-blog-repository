@@ -74,7 +74,7 @@
 14. [vue -- foreach not a function 或者map not a function的解决办吧](https://github.com/LeonWuV/FE-blog-repository/blob/master/vue/vue%20--%20foreach%20not%20a%20function%20%E6%88%96%E8%80%85map%20not%20a%20function%E7%9A%84%E8%A7%A3%E5%86%B3%E5%8A%9E%E5%90%A7.md)
 15. [vue -- vue-i18n国际化使用简单教程](https://github.com/LeonWuV/FE-blog-repository/blob/master/vue/vue%20--%20vue-i18n%E5%9B%BD%E9%99%85%E5%8C%96%E4%BD%BF%E7%94%A8%E7%AE%80%E5%8D%95%E6%95%99%E7%A8%8B.md)
 16. [vue--为什么data属性必须是一个函数](https://github.com/LeonWuV/FE-blog-repository/blob/master/vue/vue--%E4%B8%BA%E4%BB%80%E4%B9%88data%E5%B1%9E%E6%80%A7%E5%BF%85%E9%A1%BB%E6%98%AF%E4%B8%80%E4%B8%AA%E5%87%BD%E6%95%B0.md)
-16. <a href="./vue/Vue报错 -- the 'scope' attribute for scoped slots have been deprecated and replaced by 'slot-scope'.md">Vue报错 -- the 'scope' attribute for scoped slots have been deprecated and replaced by 'slot-scope'</a>
+16. <a href="/vue/Vue报错 -- the 'scope' attribute for scoped slots have been deprecated and replaced by 'slot-scope'.md">Vue报错 -- the 'scope' attribute for scoped slots have been deprecated and replaced by 'slot-scope'</a>
 
 #### jQuery
 1. [ie11 Object doesn't support property or method 'attachEvent'.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/jQuery/ie11%20Object%20doesn't%20support%20property%20or%20method%20'attachEvent'.md)
