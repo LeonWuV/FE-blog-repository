@@ -1,11 +1,7 @@
 ### 公众号
-欢迎大家关注博主的公众号：<strong>猿人说事</strong>，会不定期推送文章
+欢迎大家关注博主的公众号：<strong>猿人说事</strong>
 <p align="center">
   <img src="http://storage.360buyimg.com/cdn-upload/yuanRenQR83057a63644441fda8a095ae68c574c5.jpg" alt="猿人说事-logo" width="150px" height="150px"/>
-  <br>
-</p>
-<p align="center">
-  <strong>猿人说事</strong>
   <br>
 </p>
 
