@@ -121,19 +121,21 @@
 3. [git--git tag相关命令和实践记录](https://github.com/LeonWuV/FE-blog-repository/blob/master/git/git--git%20tag%E7%9B%B8%E5%85%B3%E5%91%BD%E4%BB%A4%E5%92%8C%E5%AE%9E%E8%B7%B5%E8%AE%B0%E5%BD%95.md)
 
 #### less
-1. [Class constructor FileManager cannot be invoked without 'new'.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/less/Class%20constructor%20FileManager%20cannot%20be%20invoked%20without%20'new'.md)
+1. [Class constructor FileManager cannot be invoked without 'new'](https://github.com/LeonWuV/FE-blog-repository/blob/master/less/Class%20constructor%20FileManager%20cannot%20be%20invoked%20without%20'new'.md)
 
 
 #### hexo
-1. [hexo系列问题之我们换了电脑怎么办.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/hexo/hexo%E7%B3%BB%E5%88%97%E9%97%AE%E9%A2%98%E4%B9%8B%E6%88%91%E4%BB%AC%E6%8D%A2%E4%BA%86%E7%94%B5%E8%84%91%E6%80%8E%E4%B9%88%E5%8A%9E.md)
-2. [hexo系列问题之部署到github时会删掉README文件.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/hexo/hexo%E7%B3%BB%E5%88%97%E9%97%AE%E9%A2%98%E4%B9%8B%E9%83%A8%E7%BD%B2%E5%88%B0github%E6%97%B6%E4%BC%9A%E5%88%A0%E6%8E%89README%E6%96%87%E4%BB%B6.md)
+1. [hexo系列问题之我们换了电脑怎么办](https://github.com/LeonWuV/FE-blog-repository/blob/master/hexo/hexo%E7%B3%BB%E5%88%97%E9%97%AE%E9%A2%98%E4%B9%8B%E6%88%91%E4%BB%AC%E6%8D%A2%E4%BA%86%E7%94%B5%E8%84%91%E6%80%8E%E4%B9%88%E5%8A%9E.md)
+2. [hexo系列问题之部署到github时会删掉README文件](https://github.com/LeonWuV/FE-blog-repository/blob/master/hexo/hexo%E7%B3%BB%E5%88%97%E9%97%AE%E9%A2%98%E4%B9%8B%E9%83%A8%E7%BD%B2%E5%88%B0github%E6%97%B6%E4%BC%9A%E5%88%A0%E6%8E%89README%E6%96%87%E4%BB%B6.md)
 
+#### linux
+1. <a href="/linux/Mac如何生成并配置多个ssh秘钥.md">Mac如何生成并配置多个ssh秘钥</a>
 
 #### angular
-1. [angular.foreach 的使用方法.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/angular/angular.foreach%20%E7%9A%84%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95.md )
+1. [angular.foreach 的使用方法](https://github.com/LeonWuV/FE-blog-repository/blob/master/angular/angular.foreach%20%E7%9A%84%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95.md)
 
 #### 杂谈与思考
-1. [你get了无数技能，为啥却一事无成.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/%E6%9D%82%E8%B0%88%E4%B8%8E%E6%80%9D%E8%80%83/%E4%BD%A0get%E4%BA%86%E6%97%A0%E6%95%B0%E6%8A%80%E8%83%BD%EF%BC%8C%E4%B8%BA%E5%95%A5%E5%8D%B4%E4%B8%80%E4%BA%8B%E6%97%A0%E6%88%90.md)
+1. [你get了无数技能，为啥却一事无成](https://github.com/LeonWuV/FE-blog-repository/blob/master/%E6%9D%82%E8%B0%88%E4%B8%8E%E6%80%9D%E8%80%83/%E4%BD%A0get%E4%BA%86%E6%97%A0%E6%95%B0%E6%8A%80%E8%83%BD%EF%BC%8C%E4%B8%BA%E5%95%A5%E5%8D%B4%E4%B8%80%E4%BA%8B%E6%97%A0%E6%88%90.md)
 2. [专业程序员的七个特质](https://github.com/LeonWuV/FE-blog-repository/blob/master/%E6%9D%82%E8%B0%88%E4%B8%8E%E6%80%9D%E8%80%83/%E4%B8%93%E4%B8%9A%E7%A8%8B%E5%BA%8F%E5%91%98%E7%9A%84%E4%B8%83%E4%B8%AA%E7%89%B9%E8%B4%A8.md)
 3. [提高程序员编程能力的有效方法](https://github.com/LeonWuV/FE-blog-repository/blob/master/%E6%9D%82%E8%B0%88%E4%B8%8E%E6%80%9D%E8%80%83/%E6%8F%90%E9%AB%98%E7%A8%8B%E5%BA%8F%E5%91%98%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B%E7%9A%84%E6%9C%89%E6%95%88%E6%96%B9%E6%B3%95.md)
 
