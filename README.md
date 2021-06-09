@@ -114,6 +114,7 @@
 2. [vs code 常用插件.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/%E7%A0%81%E5%86%9C%E5%B7%A5%E5%85%B7/vs%20code%20%E5%B8%B8%E7%94%A8%E6%8F%92%E4%BB%B6.md)
 3. [一个比tree命令结果更加优美的目录结构小工具treer.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/%E7%A0%81%E5%86%9C%E5%B7%A5%E5%85%B7/%E4%B8%80%E4%B8%AA%E6%AF%94tree%E5%91%BD%E4%BB%A4%E7%BB%93%E6%9E%9C%E6%9B%B4%E5%8A%A0%E4%BC%98%E7%BE%8E%E7%9A%84%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84%E5%B0%8F%E5%B7%A5%E5%85%B7treer.md)
 4. [Prettier的三种使用场景和使用方法](https://github.com/LeonWuV/FE-blog-repository/blob/master/%E7%A0%81%E5%86%9C%E5%B7%A5%E5%85%B7/Prettier%E7%9A%84%E4%B8%89%E7%A7%8D%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF%E5%92%8C%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95.md)
+5. <a href="/vue/vs code保存文件后不自动编译问题.md">vs code保存文件后不自动编译问题</a>
 
 #### git
 1. [git bash、cmder 下操作文件及文件夹相关命令.md](https://github.com/LeonWuV/FE-blog-repository/blob/master/git/git%20bash%E3%80%81cmder%20%E4%B8%8B%E6%93%8D%E4%BD%9C%E6%96%87%E4%BB%B6%E5%8F%8A%E6%96%87%E4%BB%B6%E5%A4%B9%E7%9B%B8%E5%85%B3%E5%91%BD%E4%BB%A4.md)
