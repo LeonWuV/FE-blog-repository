@@ -24,23 +24,23 @@ vue项目中过滤器是很常见的功能，我们应该如何合理的设计�
 
 新建filters文件夹，每一个过滤器为一个单独的文件维护，最后统一收口到index文件中。
 
-![img](https://apijoyspace.jd.com/v1/files/QaVRUMQlC9tf6o3ecEB1/link)
+![img](/static/vue18/1.png)
 
 
 
 比如一个很常见的时间格式过滤器
 
-![img](https://apijoyspace.jd.com/v1/files/lNFxgRjLtBEjm0g6bQGQ/link)
+![img](/static/vue18/2.png)
 
 在main.js中注入
 
-![img](https://apijoyspace.jd.com/v1/files/DpR3BGZmF014HLoixKnB/link)
+![img](/static/vue18/3.png)
 
 
 
 在页面中使用
 
-![img](https://apijoyspace.jd.com/v1/files/wHG6HGvKtZT6y7H40hbu/link)
+![img](/static/vue18/4.png)
 
 这样我们就完成了对过滤器使用方式的设计，是不是感觉这样很清爽呢。
 
